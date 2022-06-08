@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <display-name>AAAAAAAAAAAAAAAAAAAAAAAAA</display-name>
+    <login-config>
+        <auth-method>BASIC</auth-method>
+    </login-config>
+</web-app>
